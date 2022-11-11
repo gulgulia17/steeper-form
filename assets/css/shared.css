@@ -1,0 +1,42 @@
+body {
+  font-family: "Ubuntu";
+  margin: 0;
+  padding: 10%;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.btn {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 9px 65px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn.btn-success {
+  background-color: #009640;
+  color: #ffffff;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.form-control {
+  padding: 13px 45px 13px 15px;
+  background: #F9FAFB;
+  border: 1px solid #E5E7EB;
+  border-radius: 16px;
+  width: 100%;
+}
